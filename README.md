@@ -1,3 +1,3 @@
 # Repo-CS-203
 
-Readme file for all projects and designs created
+Projects and designs using Java for object-oreinted programming
